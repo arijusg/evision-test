@@ -10,12 +10,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FAD0A71-85E8-4E2D-9F6A-242080744994}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		build.ps1 = build.ps1
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAsync", "AccountAsync\AccountAsync.csproj", "{6EF647D7-8916-4298-A908-34E995C6C76E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountAsync", "AccountAsync\AccountAsync.csproj", "{6EF647D7-8916-4298-A908-34E995C6C76E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAsyncTest", "AccountAsyncTest\AccountAsyncTest.csproj", "{860B9729-DE12-47AC-9B37-F6CD310521FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountAsyncTest", "AccountAsyncTest\AccountAsyncTest.csproj", "{860B9729-DE12-47AC-9B37-F6CD310521FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
