@@ -2,17 +2,23 @@
 
 ## Problem #1
 Projects:
-- Account
-- AccountTest
+
+* Account
+* AccountTest
 
 ## Problem #2
 Projects:
-- AccountAsync
-- AccountAsyncTest
+
+* AccountAsync
+* AccountAsyncTest
 
 ## Problem #3
 Build script:
-- build.ps1
+
+* build.ps1
 
 NuGet packages:
-- Dist
+
+* Dist\Account.1.0.0.nupkg
+* Dist\AccountAsync.1.0.0.nupkg
+
